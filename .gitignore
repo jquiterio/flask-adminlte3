@@ -1,2 +1,4 @@
 venv
 *.sqlite
+.DS_Store
+.vscode
